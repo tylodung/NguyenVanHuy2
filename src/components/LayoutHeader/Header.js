@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Ẩm Thực Đệ Nhất
+            Đồ Ăn Ngon
           </span>
         </Link>
 
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://codeworldpostal.com/"
+            href="https://healtheventnews.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

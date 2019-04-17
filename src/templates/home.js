@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Món Ăn Dễ Nấu Tại Nhà
+                Đồ Ngon Đơn Giản Tại Nhà
               </h1>
               <p
                 css={{

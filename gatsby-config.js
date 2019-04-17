@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Hữu Tình',
-    siteUrl: 'https://codeworldpostal.com/',
+    siteUrl: 'https://healtheventnews.com/',
     rssFeedTitle: 'tinhthuong',
     rssFeedDescription: 'Đoàn Bình và Nhân Gian Hữu Tình',
   },
