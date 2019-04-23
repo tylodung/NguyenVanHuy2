@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Hữu Tình',
-    siteUrl: 'https://healtheventnews.com/',
+    siteUrl: 'https://panogas.com/',
     rssFeedTitle: 'tinhthuong',
     rssFeedDescription: 'Đoàn Bình và Nhân Gian Hữu Tình',
   },

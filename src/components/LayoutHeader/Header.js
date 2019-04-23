@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://healtheventnews.com/"
+            href="https://panogas.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}
