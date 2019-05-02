@@ -6,7 +6,7 @@ author: [doanbinh]
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
-**Nguyên liệu:** Đậu phụ tươi, hành lá, xì dầu, tiêu
+**Nguyên liệu:** Đậu phụ tươi, hành lá, xì dầu, tiêu.
 
 **Cách làm:**
 

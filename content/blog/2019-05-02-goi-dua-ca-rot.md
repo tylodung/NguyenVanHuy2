@@ -6,7 +6,7 @@ author: [doanbinh]
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
-Nguyên liệu cần có cho món ăn này
+**Nguyên liệu cần có cho món ăn này**
 
 + 2 trái dưa leo
 
@@ -24,9 +24,9 @@ Nguyên liệu cần có cho món ăn này
 
 + 1 củ hành tây
 
-+ gia vị : muối, đường, hạt nêm nấm, nước tương ngon
++ gia vị : muối, đường, hạt nêm nấm, nước tương ngon.
 
-Cách làm gỏi dưa leo cà rốt chay
+**Cách làm gỏi dưa leo cà rốt chay**
 
 Gỏi dưa leo cà rốt ngon bởi những nguyên liệu rau củ tươi ngon như dưa leo, cà rốt, hành tây…kết hợp tạo hương vị ngon lành cho món ăn chay ngon. Dưa leo rửa sạch, gọt vỏ ngoài rồi cắt đôi dưa leo, nhớ bỏ ruột dưa xong cắt dưa
 leo thành khúc dài cỡ ngón tay trỏ. Riêng cà rốt gọt vỏ ngoài, bào sợi với hành tây lột vỏ ngoài rồi cắt lát mỏng. Cho tất cả dưa leo, cà rốt, hành tây vào ngâm trong thau nước pha nước cốt chanh cho giòn ngon hơn.
