@@ -22,8 +22,8 @@ author: [doanbinh]
 
 **Cách Làm**
 
-+ Chuẩn bị các nguyên liệu sẵn sàng nấu.(bữa nay không có đậu hũ non mình dùng đậu hũ hạt sen ăn cũng rất mềm)
++ Chuẩn bị các nguyên liệu sẵn sàng nấu.
 
-+ Đun nước sôi cho củ cải vào, cho xíu muối vào luộc đến khi gần chín cho rong biển vào nấu chín mềm. (có thêm củ cải, nước canh rong biển sẽ ngọt hơn)
++ Đun nước sôi cho củ cải vào, cho xíu muối vào luộc đến khi gần chín cho rong biển vào nấu chín mềm. (có thêm củ cải, nước canh rong biển sẽ ngọt hơn).
 
 + Tiếp theo cho đậu hũ đã cắt khúc vào nồi nấu, nêm nếm lại vừa ăn. Tắt bếp cho 1 thìa café dầu ăn và chút xíu bột ngọt vào nồi canh, múc ra tô.
