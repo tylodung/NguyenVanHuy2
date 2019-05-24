@@ -6,6 +6,8 @@ author: [doanbinh]
 ---
  Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
+![ten buc hinh](https://lauganoi.com/wp-content/uploads/2014/06/Com-phan-Dau-hu-chien-xa1-1180x788.jpg "ten buc hinh")
+
 **Nguyên liệu để làm đậu hũ chiên sả ớt**
 
 + 3 miếng đậu hũ loại ngon

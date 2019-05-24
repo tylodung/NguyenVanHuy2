@@ -6,6 +6,9 @@ author: [doanbinh]
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
+![ten buc hinh](https://pastaxi-manager.onepas.vn/content/uploads/articles/2amthuc/benleamthuc/an-nam-quan-nbk-cach-chien-dau-hu/an-nam-quan-59-nguyen-binh-khiem-dau-hu-chien-1.jpg "ten buc hinh")
+
+
 **Nguyên liệu:**
 
 – 300g đậu phụ
