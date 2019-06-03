@@ -6,7 +6,9 @@ author: [doanbinh]
 ---
  Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
-Nguyên liệu làm món đậu bắp xào chay
+![ten buc hinh](https://media.cooky.vn/recipe/g1/5091/s800x500/recipe5091-635739330731275623.jpg "ten buc hinh")
+
+**Nguyên liệu làm món đậu bắp xào chay**
 
 + 1 muỗng canh dầu ăn
 
@@ -18,7 +20,7 @@ Nguyên liệu làm món đậu bắp xào chay
 
 + 2 muỗng cà-phê nước tương, muối
 
-Cách làm món đậu bắp xào chay
+**Cách làm món đậu bắp xào chay**
 
 – Đậu bắp rửa sạch, cắt miếng xéo nhỏ
 
