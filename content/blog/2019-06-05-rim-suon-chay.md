@@ -6,7 +6,9 @@ author: [doanbinh]
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
-Nguyên liệu cần có cho món ăn này
+![ten buc hinh](https://media.cooky.vn/recipe/g2/16889/s800x500/recipe16889-635973667843945599.jpg "ten buc hinh")
+
+**Nguyên liệu cần có cho món ăn này**
 
 + 200 gam sườn non chay
 
@@ -23,7 +25,7 @@ Nguyên liệu cần có cho món ăn này
 Sườn non chay làm từ lúa mạch thơm ngon, bổ dưỡng và dễ dàng chế biến thành món chay ngon như cách làm sườn non chay chiên hay sườn non trộn gỏi, nấu canh đều ngon miệng. Cách rim sườn non chay đơn giản, dễ dàng thực hiện thành món chay ngon dành dùng lâu ngày hay dùng trong bữa cơm hằng ngày đều được. Món sườn non rim
 hương vị ngon ngọt và béo béo của sữa đặc làm cho món chay ngon lạ rất đặc biệt.
 
-Cách rim sườn non chay ngon
+**Cách rim sườn non chay ngon**
 
 Tương tự cách làm sườn non chay chiên, bạn cho sườn non khô ngâm trong nước lạnh chừng 1-3 tiếng cho sườn non nở mềm thì vớt ra vắt ráo nước, xé nhỏ sườn non chay vừa ăn. Sau đó ướp gia vị vào sườn non chay sữa đặc có đường, tiêu xay, nước sả ép, bột nghệ và nước tương ngon rồi cho sườn non chay thấm gia vị 30 phút trước khi kho
 chay.
