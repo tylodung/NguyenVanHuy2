@@ -6,6 +6,8 @@ author: [doanbinh]
 ---
 Đậu phụ hay còn gọi đậu hũ là món ăn được nhiều người yêu thích vì hương vị mềm mịn, thanh mát có thể chế biến thành nhiều món ăn ngon.
 
+![ten buc hinh](https://cdn.tgdd.vn/Files/2018/06/29/1098216/cach-lam-dau-phu-tai-nha-sach-thom-ngon-chac-chan-thanh-cong-chi-30-phut.jpg "ten buc hinh")
+
 **Thời gian dự tính thực hiện món đậu phụ thơm ngon tại nhà:**
 
 - Ngâm đậu cho nở: 6 tiếng hoặc bạn có thể ngâm qua đêm.

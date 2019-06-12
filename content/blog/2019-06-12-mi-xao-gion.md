@@ -6,6 +6,8 @@ author: [doanbinh]
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
+![ten buc hinh](https://monngonmoingay.com/wp-content/uploads/2015/08/IMG_9063_3-mi-xao-gion-chay.png "ten buc hinh")
+
 **Nguyên liệu**
 
 + 150gr mì vàng
