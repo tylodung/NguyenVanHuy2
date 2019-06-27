@@ -6,41 +6,43 @@ author: [doanbinh]
 ---
 Ăn chay sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 
+![ten buc hinh](https://media.cooky.vn/recipe/g4/34427/s800x500/cooky-recipe-cover-r34427.jpg "ten buc hinh")
+
 **Nguyên liệu:**
 
-+ Phần cà chua nhồi:
+*+ Phần cà chua nhồi:*
 
-– 3 trái cà chua
+– 3 trái cà chua;
 
-– 20 gam tàu hũ ky tươi
+– 20 gam tàu hũ ky tươi;
 
-– 1 miếng đậu hũ trắng
+– 1 miếng đậu hũ trắng;
 
-– 50 gam nấm rơm
+– 50 gam nấm rơm;
 
-– 30 gam hành boa rô
+– 30 gam hành boa rô;
 
-– 1/2 thìa canh hạt nêm chay
+– 1/2 thìa canh hạt nêm chay;
 
-– 1 thìa canh dầu hào
+– 1 thìa canh dầu hào.
 
-+ Phần sốt cà:
+*+ Phần sốt cà:*
 
-– 100 gam tương cà
+– 100 gam tương cà;
 
-– 2.5 thìa canh đường trắng
+– 2.5 thìa canh đường trắng;
 
-– 1 thìa canh nước tương
+– 1 thìa canh nước tương;
 
-– 1 thìa canh dầu hào
+– 1 thìa canh dầu hào;
 
-– 1/2 thìa canh hạt nêm chay
+– 1/2 thìa canh hạt nêm chay;
 
-– 2 thìa canh dầu ăn
+– 2 thìa canh dầu ăn;
 
-– 20 gam hành boa rô
+– 20 gam hành boa rô;
 
-– 2 trái cà chua
+– 2 trái cà chua;
 
 **Bước 1: Làm phần cà chua nhồi:**
 
